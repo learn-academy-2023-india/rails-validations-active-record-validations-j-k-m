@@ -22,4 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# rails-validations-active-record-validations-j-k-m
